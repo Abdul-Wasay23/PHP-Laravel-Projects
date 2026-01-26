@@ -4,17 +4,13 @@ Professional PHP & Laravel projects demonstrating clean architecture, CRUD opera
 
 This repository showcases real-world backend applications built with **Laravel**, following MVC principles and best development practices.
 
-
 ---
 
 ## 📂 Projects
 
-### **001-Nuvora-Saloon**
-A Laravel-based salon management application focused on clean architecture, secure authentication, and CRUD operations.
-
-[💻 Code](./001-Nuvora-Saloon)  
-[📘 README](./001-Nuvora-Saloon/README.md)
-
+| Project Name | Category | Tech Stack | Links |
+|-------------|----------|------------|-------|
+| **001-Nuvora-Saloon** | Salon Management System | PHP • Laravel • MySQL • MVC | [👁️ View](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/blob/main/001-Nuvora-Saloon/001-Nuvora-Saloon-Desktop-View.jpg) \| [💻 Code](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/tree/main/001-Nuvora-Saloon) \| [⬇️ Download](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/raw/main/001-Nuvora-Saloon/001-Nuvora-Saloon.zip) \| [📘 README](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/blob/main/001-Nuvora-Saloon/README.md) |
 
 ---
 
