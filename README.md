@@ -8,9 +8,9 @@ This repository showcases real-world backend applications built with **Laravel**
 
 ## 📂 Projects
 
-| Project Name | Category | Tech Stack | Links |
-|-------------|----------|------------|-------|
-| **001-Nuvora-Saloon** | Salon Management System | PHP • Laravel • MySQL • MVC | [👁️ View](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/blob/main/001-Nuvora-Saloon/001-Nuvora-Saloon-Desktop-View.jpg) \| [💻 Code](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/tree/main/001-Nuvora-Saloon) \| [⬇️ Download](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/raw/main/001-Nuvora-Saloon/001-Nuvora-Saloon.zip) \| [📘 README](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/blob/main/001-Nuvora-Saloon/README.md) |
+| Project | Category | Links |
+|---------|----------|-------|
+| **001-Nuvora-Saloon** | Salon Management System | [👁️ View](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/blob/main/001-Nuvora-Saloon/001-Nuvora-Saloon-Desktop-View.jpg) \| [💻 Code](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/tree/main/001-Nuvora-Saloon) \| [⬇️ Download](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/raw/main/001-Nuvora-Saloon/001-Nuvora-Saloon.zip) \| [📘 README](https://github.com/Abdul-Wasay23/PHP-Laravel-Projects/blob/main/001-Nuvora-Saloon/README.md) |
 
 ---
 
